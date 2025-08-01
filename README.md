@@ -15,3 +15,5 @@ Predicts article **shares** to inform content strategy using a reproducible ML p
 - Included feature importance to surface drivers of engagement.
 
 **Code**
+
+https://github.com/shaffy-dev/Online-News-Popularity-Prediction/blob/d1618cc3e165545cbd998f95856a70b7835b5a2e/Regression%20Analysis.ipynb
